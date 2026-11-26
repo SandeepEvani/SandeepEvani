@@ -11,8 +11,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-SandeepEvani-181717?style=for-the-badge&logo=github)](https://github.com/SandeepEvani)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-evani-66aa06190)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeepevani01@gmail.com)
 
 </div>
 
